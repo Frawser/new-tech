@@ -13,6 +13,7 @@ This project was carried out over 4 weeks by a group of four people. The goal wa
 - 📂 [Project Structure](#-project-structure)
 - 📈 [Workflow](#-workflow)
 - 🗓 [Sprint Plan](#-sprint-plan)
+- 👨🏻‍💻 [My Contribution](#-my-contribution)
 - 📚 [Lessons Learned](#-lessons-learned)
 - ✍️ [Contact](#-contact)
 
@@ -127,6 +128,29 @@ npm run dev
 * Presented the results
 
 ---
+### My Contribution to the project
+
+My primary contribution was building several core features of the application that improved both functionality and user experience:
+
+* Developed the admin page and admin product list (Server Components) to manage products.
+* Built the Navbar and a category selector for easier navigation.
+* Created a reusable discount ribbon that dynamically displays percentage-based discounts.
+* Created a reusable star rating component to display reviews.
+* Created the dynamic route /products/[id] (Server Component) to fetch and display product details.
+* Built a search bar (Client Component) that filters products in real time.
+* Added metadata and a loading.tsx file for better SEO and user experience.
+* Handled params on product pages to make the page structure more dynamic.
+* Performed accessibility checks with Wave and Lighthouse to identify improvements.
+* Designed the logo and helped create the project name.
+
+If I were to continue developing the project, I would:
+
+* Improve SEO further, for example by adding structured data/schema.org.
+* Refactor certain components for even better reusability and scalability.
+* Add testing coverage (e.g., Jest, React Testing Library, Cypress) to improve reliability.
+  
+---
+
 
 ## 📚 Lessons Learned
 
