@@ -13,7 +13,7 @@ This project was carried out over 4 weeks by a group of four people. The goal wa
 - 📂 [Project Structure](#-project-structure)
 - 📈 [Workflow](#-workflow)
 - 🗓 [Sprint Plan](#-sprint-plan)
-- 👨🏻‍💻 [My Contribution to the project](#-my-contribution-to-the-project)
+- 👨🏻‍💻 [My Contribution](#my-contribution)
 - 📚 [Lessons Learned](#-lessons-learned)
 - ✍️ [Contact](#-contact)
 
@@ -50,6 +50,7 @@ The purpose was to practice:
 ---
 
 ## ⚙️ Installation
+
 ```bash
 # Clone the repository
 git clone https://github.com/Frawser/new-tech
@@ -102,7 +103,7 @@ npm run dev
 
 ---
 
-## 🗓 Sprintplan
+## 🗓 Sprint Plan
 
 ### Sprint 1 - Basic structure
 
@@ -128,7 +129,8 @@ npm run dev
 * Presented the results
 
 ---
-### My Contribution to the project
+
+## My Contribution
 
 My primary contribution was building several core features of the application that improved both functionality and user experience:
 
