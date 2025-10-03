@@ -13,7 +13,7 @@ This project was carried out over 4 weeks by a group of four people. The goal wa
 - 📂 [Project Structure](#-project-structure)
 - 📈 [Workflow](#-workflow)
 - 🗓 [Sprint Plan](#-sprint-plan)
-- 👨🏻‍💻 [My Contribution](#-my-contribution)
+- 👨🏻‍💻 [My Contribution to the project](#-my-contribution)
 - 📚 [Lessons Learned](#-lessons-learned)
 - ✍️ [Contact](#-contact)
 
